@@ -1,3 +1,6 @@
 [submodule "001"]
 	path = 001
 	url = git@github.com:morizotter/web100-001.git
+[submodule "002"]
+	path = 002
+	url = git@github.com:morizotter/web100-002.git
