@@ -12,6 +12,6 @@ Trial for making simple 100 web site
 Author
 -------
 
-- [Morita naoki](http://moritanaoki.com)
+- [Morita naoki](http://moritanaoki.org)
   - [Twitter](http://twitter.com/morizotter)
   - [Facebook](http://facebook.com/morizotter)
