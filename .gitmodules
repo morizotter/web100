@@ -1,0 +1,3 @@
+[submodule "001"]
+	path = 001
+	url = git@github.com:morizotter/web100-001.git
