@@ -19,6 +19,7 @@ $ git submodule update  # update the registered submodule.
 
 - [001](https://github.com/morizotter/web100-001) - [web](http://morizotter.github.io/web100-001)
 - [002](https://github.com/morizotter/web100-002) - [web](http://morizotter.github.io/web100-002)
+- [003](https://github.com/morizotter/web100-003) - [web](http://morizotter.github.io/web100-003)
 
 Author
 -------
