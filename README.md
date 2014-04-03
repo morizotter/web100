@@ -1,7 +1,7 @@
 web100
 ======
 
-Trial for making simple 100 web site
+Trial for making simple 100 web sites.
 
 About clone
 ------
@@ -17,9 +17,9 @@ $ git submodule update  # update the registered submodule.
 100
 ----
 
-- [001](https://github.com/morizotter/web100-001) - [web](http://morizotter.github.io/web100-001)
-- [002](https://github.com/morizotter/web100-002) - [web](http://morizotter.github.io/web100-002)
-- [003](https://github.com/morizotter/web100-003) - [web](http://morizotter.github.io/web100-003)
+- [001](https://github.com/morizotter/web100-001)([web](http://morizotter.github.io/web100-001)): Hello World page.
+- [002](https://github.com/morizotter/web100-002)([web](http://morizotter.github.io/web100-002)): A few lines with bootstrap.
+- [003](https://github.com/morizotter/web100-003)([web](http://morizotter.github.io/web100-003)): A few articles with JSON and JavaScript.
 
 Author
 -------
