@@ -7,3 +7,6 @@
 [submodule "003"]
 	path = 003
 	url = git@github.com:morizotter/web100-003.git
+[submodule "web100-004"]
+	path = web100-004
+	url = git@github.com:morizotter/web100-004.git
